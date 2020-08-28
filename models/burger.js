@@ -7,6 +7,11 @@ var burger = {
       cb(res);
     });
   },
+
+  create: function(cb){
+    orm.create("burgers")
+  }
 };
+
 
 module.exports = burger;
