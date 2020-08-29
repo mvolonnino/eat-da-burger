@@ -50,7 +50,7 @@ Languages Utilized:
 
 ## Tests:
 
-To run the application, once in the correct path, enter 'node server.js' into terminal and hit enter - the program will execute and will let you know that it is listening on PORT.
+To run the application, once in the correct path, enter ```node server.js``` into terminal and hit ```enter``` - the program will execute and will let you know that it is listening on PORT.
 
 ### Contributing:
 
