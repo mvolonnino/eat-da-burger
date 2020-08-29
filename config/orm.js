@@ -43,7 +43,7 @@ var orm = {
     var queryString = "SELECT * FROM " + table + ";";
     connection.query(queryString, function (err, result) {
       if (err) throw err;
-      console.log("result: ", result);
+      // console.log("result: ", result);
       cb(result);
     });
   },
