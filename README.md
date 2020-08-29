@@ -20,7 +20,12 @@
 
 ## Description:
 
+
+https://burger-menu-app.herokuapp.com/
+
 This web application allows users to make a "menu" with burgers that they add that adds it to a database. They can then "devour" the burger which will place it into another list where all the other burgers are that have already been "devoured" and vice versa to but the burger back on the menu.
+
+
 
 `check the assets => video folder => 'view raw' to see a tutorial`
 
