@@ -1,5 +1,10 @@
+.jumbotron {
+  font-family: "Alata", sans-serif;
+}
+
 li {
-  margin: 2px;
+  margin: 4px;
+  font-family: "Alata", sans-serif;
 }
 
 ul {
