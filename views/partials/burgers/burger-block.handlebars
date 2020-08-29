@@ -2,7 +2,9 @@
   {{name}}
 
   <button class="change-devour btn btn-danger" data-id="{{id}}" data-newate="{{ate}}">
-    {{#if ate}}IM FULL!{{else}}DEVOUR ME WHOLE!{{/if}}
+
+    {{#if ate}}DEVOUR ME WHOLE!{{else}}✔️Yum! Back to menu{{/if}}
   </button>
 
+  <button class="delete-burger btn btn-dark" data-id="{{this.id}}">DELETE!</button>
 </li>
