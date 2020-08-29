@@ -2,11 +2,16 @@
   font-family: "Alata", sans-serif;
 }
 
+.mgTop {
+  margin-top: 25px;
+}
+
 li {
   margin: 4px;
   font-family: "Alata", sans-serif;
+  list-style: none;
 }
 
 ul {
-  margin: 2px;
+  margin-bottom: 20px;
 }
